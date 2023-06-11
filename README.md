@@ -2,11 +2,11 @@ BST206_21430070039_AHMET_FEYZI_GULMEZ_EV_Charging_Station_Interfaces
 
 #TR
 
-WPF ile elektrikli şarj istasyonları için kullanıcı dostu arayüzler ve işlevler geliştirmek için kullanabilirim. Örneğin, kullanıcılara şarj seviyesi, şarj süresi ve fiyat bilgilerini gösteren bir ekran tasarlayabilirim. Ayrıca, kullanıcılara ödeme seçenekleri sunmak için kredi kartı okuyucuları veya NFC özellikleri de entegre edebilirim.
+WPF ile elektrikli şarj istasyonları için kullanıcı dostu arayüzler ve işlevler geliştirmek için kullanabilirim. Örneğin, kullanıcılara şarj seviyesi, şarj süresi ve fiyat bilgilerini gösteren bir ekran tasarlayabilirim. Ayrıca, kullanıcılara ödeme seçenekleri sunmak için kredi kartı okuyucuları veya NFC özelliklerini de ileride entegre etmeyi düşünüyorum.
 
-WPF aynı zamanda şarj istasyonu sahipleri için de kullanışlıdır. Örneğin, şarj istasyonunun durumunu takip etmek, ödeme işlemlerini yönetmek ve müşteri verilerini kaydetmek için bir yönetim paneli tasarlayabilirim.
+İleride bu kadarıyla da kalmayacağım örneğin, şarj istasyonunun durumunu takip etmek, ödeme işlemlerini yönetmek ve müşteri verilerini kaydetmek için de bir yönetim paneli tasarlamayı düşünüyorum.
 
-Özetle, WPF, kullanıcı dostu arayüzler ve işlevler ile donatılmış elektrikli şarj istasyonları için birçok faydalı özellik sunar. Bu özellikler arasında şarj seviyesi, şarj süresi ve fiyat bilgilerinin gösterilmesi, ödeme işlemlerinin kolayca yapılabilmesi ve yönetim paneli ile şarj istasyonunun durumunun takip edilebilmesi yer almaktadır.
+Özetle, WPF, kullanıcı dostu arayüzler ve işlevler ile donatılmış elektrikli şarj istasyonları için birçok faydalı özellik sunuyor. Bu özellikler arasında şarj seviyesi, şarj süresi ve fiyat bilgilerinin gösterilmesi, ödeme işlemlerinin kolayca yapılabilmesi ve yönetim paneli ile şarj istasyonunun durumunun takip edilebilmesi gibi gibi işlevler yer almaktadır.
 
 #ENG
 
